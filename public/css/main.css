@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Pixellari";
+    src: url("/public/fonts/pixellari/Pixellari.ttf") format("truetype")
+}
+
+body {
+    margin: 0;
+    font-family: "Pixellari"
+}
+
+body, html, #__next {
+    height: 100%;
+}
+
+.window {
+    background-color: #0001a9;
+    height: 100%;
+}
+
